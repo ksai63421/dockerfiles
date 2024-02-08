@@ -1,0 +1,4 @@
+FROM almalinux:8
+LABEL COURSE=DevOPs \
+      TRAINER=SAIKRISHNA \
+      DURATION=100HRS
