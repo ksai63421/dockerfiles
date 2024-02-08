@@ -2,3 +2,5 @@ FROM almalinux:8
 ENV NAME=SAIKRISHNA \
     AGE=30 \
     ADDRESS=SYDNEY
+
+    
